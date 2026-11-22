@@ -3,6 +3,11 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/temp/goit-algo-hw-02/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/temp/goit-algo-hw-04/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/temp/goit-algo-hw-05/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/temp/goit-algo-hw-08/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/temp/goit-algo-hw-10/.venv" />
     </content>
     <orderEntry type="jdk" jdkName="~/Work/GoIT/goit-algo-fp/.venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
